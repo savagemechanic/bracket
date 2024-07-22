@@ -1,4 +1,4 @@
-
+test
 # Compile typescript code to javascript
 npx tsc
 
